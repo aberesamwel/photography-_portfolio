@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography Portfolio</title>
+    <link rel="stylesheet" href="./static/style.css">
+</head>
+<body>
+    <header>
+        <h1>My Photography Portfolio</h1>
+        <p class="intro">Capturing moments from today, creating memories for a lifetime.</p>
+    </header>
+    <section class="biography">
+        <h2>About Me</h2>
+        <img src="./public/pexels-moh-adbelghaffar-771742.jpg" alt="My Photo" class="bio-image">
+        <p>Hi, I'm Samuel, a passionate photographer who loves to capture the beauty of the world.</p>
+    </section>
+    <section class="categories">
+        <h2>Photo Categories</h2>
+        <nav>
+            <ul>
+                <li><a href="#nature">Nature</a></li>
+                <li><a href="#urban">Urban</a></li>
+                <li><a href="#portraits">Portraits</a></li>
+            </ul>
+        </nav>
+    </section>
+    <section id="nature" class="gallery">
+        <h2>Nature</h2>
+        <ul>
+            <li>
+                <img src="./public/pexels-pixabay-36762.jpg" alt="Nature 1">
+                <p class="story">A serene morning in the forest.</p>
+            </li>
+            <li>
+                <img src="./public/pexels-pixabay-372166.jpg" alt="Nature 2">
+                <p class="story">The vibrant colors of autumn leaves.</p>
+            </li>
+            <li>
+                <img src="./public/pexels-pixabay-45853.jpg" alt="Nature 2">
+                <p class="story">The vibrant colors of autumn leaves.</p>
+            </li>
+            <!-- Add more nature photos -->
+        </ul>
+    </section>
+    <section id="urban" class="gallery">
+        <h2>Urban</h2>
+        <ul>
+            <li>
+                <img src="./public/pexels-hikaique-242124.jpg" alt="Urban 1">
+                <p class="story">The city lights reflecting on a rainy night.</p>
+            </li>
+            <li>
+                <img src="./public/pexels-isaquepereira-394377.jpg" alt="Urban 2">
+                <p class="story">A bustling street at dusk.</p>
+            </li>
+            <li>
+                <img src="./public/pexels-pixabay-290595.jpg" alt="Urban 2">
+                <p class="story">A bustling street at dusk.</p>
+            </li>
+
+
+        </ul>
+    </section>
+    <section id="portraits" class="gallery">
+        <h2>Portraits</h2>
+        <ul>
+            <li>
+                <img src="./public/pexels-pixabay-35065.jpg" alt="Portrait 1">
+                <p class="story">A candid moment capturing pure joy.</p>
+            </li>
+            <li>
+                <img src="./public/pexels-vinicius-wiesehofer-289347-1130626.jpg" alt="Portrait 2">
+                <p class="story">The elegance of a dancer in motion.</p>
+            </li>
+            <li>
+                <img src="./public/pexels-creationhill-1681010.jpg" alt="Portrait 2">
+                <p class="story">The elegance of a dancer in motion.</p>
+            </li>
+            <!-- Add more portrait photos -->
+        </ul>
+    </section>
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </section>
+</body>
+</html>
