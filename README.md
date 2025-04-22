@@ -29,6 +29,7 @@ To set up the project locally, follow these steps:
 4.Hit enter and enjoy the site !
 
 ## Known Bugs
+There are currently no known bugs or issues, Everything is functioning as expected
 
 1. **Clone the repository:**
 
