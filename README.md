@@ -48,6 +48,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 Contact
 
-For any inquiries or feedback, please contact me at [your-email@example.com].
+For any inquiries or feedback, please contact me at [abere.samuel@gmail.com].
 
 Thank you for visiting my Photography Portfolio website!
