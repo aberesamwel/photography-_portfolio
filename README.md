@@ -23,6 +23,7 @@ To set up the project locally, follow these steps:
 2.open your browser
 3.Enter the following URL in the address bar:
     https://aberesamwel.github.io/photography-_portfolio/
+4.Hit enter and enjoy the site !
 
 1. **Clone the repository:**
 
