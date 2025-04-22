@@ -72,3 +72,5 @@ Thank you for visiting my Photography Portfolio website!
 
 This applicatio is licensed under MIT license
 
+Copyright (c) 2025 Samuel Abere
+
