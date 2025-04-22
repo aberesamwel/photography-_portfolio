@@ -71,6 +71,7 @@ Thank you for visiting my Photography Portfolio website!
 
 if you encounter any issues have, feedback or would like to contribute;
 Email: abere.samuel@gmail.com
+phone: Contact details available directly on the website
 
 
 
