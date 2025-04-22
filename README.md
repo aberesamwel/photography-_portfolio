@@ -16,13 +16,13 @@ Welcome to my Photography Portfolio website! This project showcases a collection
 - **JavaScript (optional):** Can be used for dynamic content loading and additional interactivity.
 - **Google Fonts:** For modern typography.
 
-## Set/Installation Requirements
+## Setup/Installation Requirements
 
 To set up the project locally, follow these steps:
 1.Ensure you have an internet browser installed(e.g. Google Chrome )
 2.open your browser
 3.Enter the following URL in the address bar:
-    https://aberesamwel.github.io/photography-_portfolio/
+    > https://aberesamwel.github.io/photography-_portfolio/
 4.Hit enter and enjoy the site !
 
 1. **Clone the repository:**
