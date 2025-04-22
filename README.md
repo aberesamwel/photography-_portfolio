@@ -29,7 +29,9 @@ To set up the project locally, follow these steps:
 4.Hit enter and enjoy the site !
 
 ## Platform Compatibility
+*Work best on linux and modern web browser
 
+*No installation,dependecies,or configuration files are required
 
 ## Known Bugs
 There are currently no known bugs or issues, Everything is functioning as expected
