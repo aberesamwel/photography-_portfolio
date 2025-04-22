@@ -20,6 +20,7 @@ Welcome to my Photography Portfolio website! This project showcases a collection
 
 To set up the project locally, follow these steps:
 1.Ensure you have an internet browser installed(e.g. Google Chrome )
+2.open your browser
 
 1. **Clone the repository:**
 
