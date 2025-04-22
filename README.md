@@ -69,6 +69,8 @@ For any inquiries or feedback, please contact me at [abere.samuel@gmail.com].
 Thank you for visiting my Photography Portfolio website!
 ## Support and Contact Details
 
+if you encounter any issues have, feedback or would like to contribute;
+
 
 
 
