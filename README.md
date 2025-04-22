@@ -70,6 +70,7 @@ Thank you for visiting my Photography Portfolio website!
 ## Support and Contact Details
 
 if you encounter any issues have, feedback or would like to contribute;
+Email: abere.samuel@gmail.com
 
 
 
