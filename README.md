@@ -20,10 +20,15 @@ Welcome to my Photography Portfolio website! This project showcases a collection
 
 To set up the project locally, follow these steps:
 1.Ensure you have an internet browser installed(e.g. Google Chrome )
+
 2.open your browser
+
 3.Enter the following URL in the address bar:
+
     > https://aberesamwel.github.io/photography-_portfolio/
 4.Hit enter and enjoy the site !
+
+## Known Bugs
 
 1. **Clone the repository:**
 
