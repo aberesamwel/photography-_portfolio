@@ -28,6 +28,9 @@ To set up the project locally, follow these steps:
     > https://aberesamwel.github.io/photography-_portfolio/
 4.Hit enter and enjoy the site !
 
+## Platform Compatibility
+
+
 ## Known Bugs
 There are currently no known bugs or issues, Everything is functioning as expected
 
