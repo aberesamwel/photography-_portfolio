@@ -16,7 +16,7 @@ Welcome to my Photography Portfolio website! This project showcases a collection
 - **JavaScript (optional):** Can be used for dynamic content loading and additional interactivity.
 - **Google Fonts:** For modern typography.
 
-## Getting Started
+## Set/Installation Requirements
 
 To set up the project locally, follow these steps:
 1.Ensure you have an internet browser installed(e.g. Google Chrome )
