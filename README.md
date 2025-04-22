@@ -70,4 +70,5 @@ Thank you for visiting my Photography Portfolio website!
 
 ## license
 
+This applicatio is licensed under MIT license
 
